@@ -1,19 +1,15 @@
-1. XAMPP
+# 🌍 Tourism Website
 
-2. "TEXT EDITOR" 
+A simple PHP + MySQL-based tourism management system using XAMPP. Users can explore destinations, book tours, and view travel info.
 
-3. "tourism"
+## ⚙️ Setup Instructions
 
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "tourism" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name tourism_db
-
-9. Import tourism_db.sql file(given inside the zip package in SQL file folder)
-
-10. 7.Run the script http:/tourism
+1. **Install XAMPP**
+2. **Download & Extract** the project ZIP file.
+3. **Copy** the `tourism` folder to:
+4. **Start** Apache & MySQL via XAMPP Control Panel.
+5. **Create DB**:
+- Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+- Create a DB: `tourism_db`
+- Import `tourism_db.sql` from the `SQL File` folder.
+6. **Run the Site**:
